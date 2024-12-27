@@ -1,0 +1,2 @@
+# Uncommon Error in Python Function
+This repository demonstrates an uncommon error in a simple Python function. The function aims to handle division by zero and return appropriate values, however it fails under certain conditions. Specifically, when both inputs are zero, the return behavior is not clearly defined. The provided solution clarifies this and adds explicit handling for the case of both inputs being zero.
